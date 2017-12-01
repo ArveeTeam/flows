@@ -16,17 +16,17 @@
             {
               "title":"Management Courses",
               "image_url":"https://scontent.fmru3-1.fna.fbcdn.net/v/t1.0-1/p200x200/23131633_1937377946278497_3414881927994552374_n.jpg?oh=489e9ecc650808934c375e79e739de70&oe=5AD70120",
-              "subtitle":"Event Mgt, Hospitality Mgt, Business Mgt, Tourism Mgt ",
+              "subtitle":"Event Mgt, Hospitality Mgt, Business Mgt, Tourism Mgt"
             },
             {
               "title":"General Courses",
               "image_url":"https://scontent.fmru3-1.fna.fbcdn.net/v/t1.0-1/p200x200/23131633_1937377946278497_3414881927994552374_n.jpg?oh=489e9ecc650808934c375e79e739de70&oe=5AD70120",
-              "subtitle":"Business Admin, Finance, Accounting, Marketing, PR, Foreign Languages",
-            },
+              "subtitle":"Business Admin, Finance, Accounting, Marketing, PR, Foreign Languages"
+            }
             {
               "title":"Culinary Courses",
               "image_url":"https://scontent.fmru3-1.fna.fbcdn.net/v/t1.0-1/p200x200/23131633_1937377946278497_3414881927994552374_n.jpg?oh=489e9ecc650808934c375e79e739de70&oe=5AD70120",
-              "subtitle":"Culinary Arts, Heritage Cuisine, Patisserie, Master Chef, Wine and Spirits Trust",
+              "subtitle":"Culinary Arts, Heritage Cuisine, Patisserie, Master Chef, Wine and Spirits Trust"
             }
           ]
         }

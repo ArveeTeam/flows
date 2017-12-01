@@ -1,0 +1,40 @@
+{
+
+"messages": [
+		       
+    {
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"list",
+          "top_element_style":"large",
+          "elements":[
+            {
+              "title":"Berjaya University College",
+              "image_url":"https://scontent.fmru3-1.fna.fbcdn.net/v/t31.0-8/22042092_1898705746812384_2588222778263077754_o.png?oh=7372bc9dc33cdf07d886228644a3d52f&oe=5A95C761",
+              "subtitle":"A Class Above"
+            },
+            {
+              "title":"Management Courses",
+              "image_url":"https://scontent.fmru3-1.fna.fbcdn.net/v/t1.0-1/p200x200/23131633_1937377946278497_3414881927994552374_n.jpg?oh=489e9ecc650808934c375e79e739de70&oe=5AD70120",
+              "subtitle":"Event Mgt, Hospitality Mgt, Business Mgt, Tourism Mgt "
+            },
+            {
+              "title":"General Courses",
+              "image_url":"https://scontent.fmru3-1.fna.fbcdn.net/v/t1.0-1/p200x200/23131633_1937377946278497_3414881927994552374_n.jpg?oh=489e9ecc650808934c375e79e739de70&oe=5AD70120",
+              "subtitle":"Business Admin, Finance, Accounting, Marketing, PR, Foreign Languages"
+            },
+            {
+              "title":"Culinary Courses",
+              "image_url":"https://scontent.fmru3-1.fna.fbcdn.net/v/t1.0-1/p200x200/23131633_1937377946278497_3414881927994552374_n.jpg?oh=489e9ecc650808934c375e79e739de70&oe=5AD70120",
+              "subtitle":"Culinary Arts, Heritage Cuisine, Patisserie, Master Chef, Wine and Spirits Trust"
+            }
+          ]
+        }
+      }
+    }
+      
+      
+]
+}
+

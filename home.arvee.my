@@ -12,22 +12,22 @@
             {
               "title":"Arvee",
               "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/genback.jpg",
-              "subtitle":"Unified MAP"
+              "subtitle":"The WhatsApp-Messenger Bridge"
             },
             {
               "title":"Product",
               "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/arvee1.png",
-              "subtitle":"A simple and convenient way for your customers to contact you using the apps they use the most, online AND offline. "
+              "subtitle":"A simple and convenient way for customers to contact businesses online+offline."
             },
             {
               "title":"Pricing",
               "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/arvee1.png",
-              "subtitle":"Arvee is FREE for small businesses that support charity. Otherwise plans start at €120/year."
+              "subtitle":"FREE for SMEs supporting charity. Customized corporate plans start at €600/year."
             },
             {
-              "title":"Social Responsibility",
+              "title":"Purpose",
               "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/arvee1.png",
-              "subtitle":"We donate 100% of our profits to support tech education."
+              "subtitle":"We donate 100% of our profits to support tech education. Join the Arvee cause!"
             }
           ]
         }
@@ -40,4 +40,3 @@
       
 ]
 }
-

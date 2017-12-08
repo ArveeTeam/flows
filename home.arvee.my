@@ -1,0 +1,42 @@
+{
+
+"messages": [
+		       
+    {
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"list",
+          "top_element_style":"large",
+          "elements":[
+            {
+              "title":"Arvee",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/genback.jpg",
+              "subtitle":"The WhatsApp-Messenger Bridge"
+            },
+            {
+              "title":"Product",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/arvee1.png",
+              "subtitle":"A simple and convenient way for customers to contact businesses online+offline."
+            },
+            {
+              "title":"Pricing",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/arvee1.png",
+              "subtitle":"FREE for SMEs supporting charity. Customized corporate plans start at €600/year."
+            },
+            {
+              "title":"Purpose",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/arvee1.png",
+              "subtitle":"We donate 100% of our profits to support tech education. Join the Arvee cause!"
+            }
+          ]
+        }
+      }
+    },
+    
+    {"text": "Want to deploy Arvee to your business? It is simple! Simply type: ADD and follow the instructions!"} 
+
+      
+      
+]
+}

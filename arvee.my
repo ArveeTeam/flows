@@ -1,0 +1,43 @@
+{
+
+"messages": [
+		       
+    {
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"list",
+          "top_element_style":"large",
+          "elements":[
+            {
+              "title":"Arvee",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/genback.jpg",
+              "subtitle":"Unified MAP"
+            },
+            {
+              "title":"Product",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/arvee1.png",
+              "subtitle":"A simple and convenient way for your customers to contact you using the apps they use the most, online AND offline. "
+            },
+            {
+              "title":"Pricing",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/arvee1.png",
+              "subtitle":"Arvee is FREE for small businesses that support charity. Otherwise plans start at €120/year."
+            },
+            {
+              "title":"Social Responsibility",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/resellers/arvee1.png",
+              "subtitle":"We donate 100% of our profits to support tech education."
+            }
+          ]
+        }
+      }
+    },
+    
+    {"text": "Want to deploy Arvee to your business? It is simple! Simply type: "GO" and follow the instructions!"} 
+
+      
+      
+]
+}
+

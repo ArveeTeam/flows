@@ -11,7 +11,7 @@
           "elements":[
             {
               "title":"MATTA FAIR 2018",
-              "image_url":"flows/images/matta-logo1_001.jpg",
+              "image_url":"matta-logo1_001.jpg",
               "subtitle":"16 - 18 March 2018"
             },
             {
@@ -21,7 +21,7 @@
             },
             {
               "title":"Location",
-              "image_url":"https://github.com/ArveeTeam/flows/blob/resellers/images/MATTA%20Location.jpg",
+              "image_url":"https://i.pinimg.com/736x/29/93/fd/2993fd151e2e1cab871aec155e22cbcc--location-logo-gn.jpg",
               "subtitle":"PWTC, Kuala Lumpur"
             },
             {

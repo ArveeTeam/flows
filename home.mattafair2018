@@ -1,0 +1,42 @@
+{
+
+"messages": [
+		       
+    {
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"list",
+          "top_element_style":"large",
+          "elements":[
+            {
+              "title":"MATTA FAIR 2018",
+              "image_url":"https://github.com/ArveeTeam/flows/blob/resellers/images/MATTA%20LOGO.png",
+              "subtitle":"16 - 18 March 2018"
+            },
+            {
+              "title":"Opening Hours",
+              "image_url":"https://github.com/ArveeTeam/flows/blob/resellers/images/MATTA%20time.png",
+              "subtitle":"10:00 AM to 09:00 PM, Tuesday to Saturday"
+            },
+            {
+              "title":"Location",
+              "image_url":"https://github.com/ArveeTeam/flows/blob/resellers/images/51e6452ca365f618ab4b723c7aa18be9.jpg",
+              "subtitle":"PWTC, Kuala Lumpur"
+            },
+            {
+              "title":"Description",
+              "image_url":"https://scontent.fkul14-1.fna.fbcdn.net/v/t1.0-9/22089199_1325236900937208_9191752368970948777_n.jpg?oh=f52ca058ba0e87c3599a334645ed292c&oe=5AF8EA84",
+              "subtitle":"MATTA Fair KL is the biggest travel fair featuring licensed travel agencies in Malaysia. "
+            }
+          ]
+        }
+      }
+    },
+    
+    {"text": "Welcome to MATTA Fair 2018. Your registration is successful. Enjoy your visit. For more information, Please tab on the CONTACT MATTAFAIR2018 to get in touch with our representatives."} 
+
+      
+      
+]
+}

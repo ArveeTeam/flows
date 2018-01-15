@@ -11,30 +11,30 @@
           "elements":[
             {
               "title":"MATTA FAIR 2018",
-              "image_url":"http://www.bajet.com.my/wp-content/uploads/2017/10/logo_matta.jpg",
+              "image_url":"https://github.com/ArveeTeam/flows/blob/resellers/images/matta-logo1_001.jpg",
               "subtitle":"16 - 18 March 2018"
             },
             {
               "title":"Opening Hours",
-              "image_url":"https://scontent.fkul6-1.fna.fbcdn.net/v/t1.0-9/425732_477593992291181_883099328_n.jpg?oh=24fbb25effcba81c98ed5f10ac93854e&oe=5AD5913D",
-              "subtitle":"10:00 AM to 07:00 PM, Tuesday to Saturday"
+              "image_url":"https://github.com/ArveeTeam/flows/blob/resellers/images/Screen%20Shot%202018-01-15%20at%2011.42.11%20PM.png",
+              "subtitle":"10:00 AM to 09:00 PM, Tuesday to Saturday"
             },
             {
               "title":"Location",
-              "image_url":"https://scontent.fkul6-1.fna.fbcdn.net/v/t1.0-9/15541478_1321399934577245_8014381194472135531_n.jpg?oh=1584c9e07c4bcd52812cb4dddc90d91e&oe=5AD35E86",
-              "subtitle":"7 Jalan H 3, Taman Melawati, 53100 Kuala Lumpur"
+              "image_url":"https://github.com/ArveeTeam/flows/blob/resellers/images/MATTA%20Location.jpg",
+              "subtitle":"PWTC Kuala Lumpur"
             },
             {
               "title":"Description",
-              "image_url":"https://scontent.fkul6-1.fna.fbcdn.net/v/t1.0-9/1654274_682895558427689_889334934_n.jpg?oh=1018403923c33aac1cd9ef5f146e3843&oe=5AB83BC2",
-              "subtitle":"A Cozy English Tea House in the lush green hills of Melawati, serving the finest scones and tea in Kuala Lumpur. We specialize in authentic mouth watering desserts, cakes and hot Western meals freshly made in house by an award winning chef."
+              "image_url":"https://scontent.fkul14-1.fna.fbcdn.net/v/t1.0-9/22089199_1325236900937208_9191752368970948777_n.jpg?oh=f52ca058ba0e87c3599a334645ed292c&oe=5AF8EA84",
+              "subtitle":"MATTA Fair KL is the biggest travel fair featuring licensed travel agencies in Malaysia."
             }
           ]
         }
       }
     },
     
-    {"text": "First off thank you for connecting with us! Please tab on the CONTACT METH.MY below so we can stay in touch."} 
+    {"text": "Your registration is successful. Enjoy your visit. For more information, Please tab on the CONTACT MATTAFAIR2018 to get in touch with our representatives."} 
 
       
       

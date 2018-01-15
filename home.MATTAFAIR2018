@@ -11,17 +11,17 @@
           "elements":[
             {
               "title":"MATTA FAIR 2018",
-              "image_url":"matta-logo1_001.jpg",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/blob/resellers/images/matta-logo1_001.jpg",
               "subtitle":"16 - 18 March 2018"
             },
             {
               "title":"Opening Hours",
-              "image_url":"https://github.com/ArveeTeam/flows/blob/resellers/images/Screen%20Shot%202018-01-15%20at%2011.42.11%20PM.png",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/blob/resellers/images/Screen%20Shot%202018-01-15%20at%2011.42.11%20PM.png",
               "subtitle":"10:00 AM to 09:00 PM, Tuesday to Saturday"
             },
             {
               "title":"Location",
-              "image_url":"https://i.pinimg.com/736x/29/93/fd/2993fd151e2e1cab871aec155e22cbcc--location-logo-gn.jpg",
+              "image_url":"https://raw.githubusercontent.com/ArveeTeam/flows/blob/resellers/images/MATTA%20Location.jpg",
               "subtitle":"PWTC, Kuala Lumpur"
             },
             {
